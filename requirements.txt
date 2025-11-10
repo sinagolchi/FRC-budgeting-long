@@ -1,6 +1,6 @@
 # requirements.txt
 psycopg2-binary
-pandas==1.3.4
+pandas
 seaborn==0.11.2
-numbpy==1.26.4
+numbpy
 streamlit
