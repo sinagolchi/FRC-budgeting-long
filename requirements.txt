@@ -1,6 +1,6 @@
 # requirements.txt
 psycopg2-binary
 pandas
-seaborn==0.11.2
+seaborn
 numbpy
 streamlit
